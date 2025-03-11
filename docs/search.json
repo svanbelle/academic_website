@@ -18,7 +18,7 @@
     "href": "publications.html#selected-work",
     "title": "Publications",
     "section": "Selected Work",
-    "text": "Selected Work\nFirst paper [pdf] [code and data]   \n\n\n\nAward:\nCoverage:\nInvited presentation:\n\n\n\nSecond Paper [pdf]"
+    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
   },
   {
     "objectID": "projects.html",
@@ -28,15 +28,29 @@
     "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/paper/index.html#abstract",
-    "href": "posts/paper/index.html#abstract",
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
     "title": "Can quantum-mechanical description of physical reality be considered complete?",
     "section": "Abstract",
     "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
   },
   {
-    "objectID": "posts/paper/index.html#links",
-    "href": "posts/paper/index.html#links",
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
     "title": "Can quantum-mechanical description of physical reality be considered complete?",
     "section": "Links",
     "text": "Links\nPublished paper"
@@ -77,25 +91,11 @@
     "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
   },
   {
-    "objectID": "posts/news/index.html",
-    "href": "posts/news/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news/index.html#summary",
-    "href": "posts/news/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quarto Academic, PhD",
     "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nFavor this repository so you can easily come back to the template\n\nFolk this template and rename it to githubusername.github.io\n\nUpdate and edit _quarto.yml file for website setup\n\nUpdate and add contents to posts, teaching, projects, and people as needed.\nRender and preview your website and commit it to your GitHub.\nPolish and fix any issues\n\nEnjoy your website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
+    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository so you can easily come back to the template\n\nFolk this tempate and rename it to yourgithubusername.github.io\n\nUpdate and edit _quarto.yml file for website setup\n\nUpdate and add contents to /posts, teaching.qmd, projects.yml, and people.qmd and /people as needed.\nRender and preview your website and publish it to your GitHub.\nPolish and fix any issues\n\nEnjoy your website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
   },
   {
     "objectID": "index.html#experience",
