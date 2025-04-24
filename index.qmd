@@ -1,0 +1,91 @@
+---
+title: "Sophie Vanbelle, PhD"
+description-meta: "Sophie Vanbelle, Associate professor in Methodology and Statistics, Maastricht University (The Netherlands)"
+image: "files/profiles/vanbelle_square.JPG"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/svanbelle
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:sophie.vanbelle@maastrichtuniversity.nl    
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sophie-vanbelle-21a97b354/
+      target: _blank
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@SophieVanbelle     
+      target: _blank 
+    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+      href: https://orcid.org/0000-0001-6584-2522
+      target: _blank
+    - text: "{{< ai clarivate >}} Web of Science"
+      href: https://www.webofscience.com/wos/author/record/30582405,16360334,34344671  
+      target: _blank
+    - text: "{{< ai scopus >}} Scopus"
+      href: https://www.scopus.com/authid/detail.uri?authorId=16235616700
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.nl/citations?user=JJ2fzIEAAAAJ&hl=nl
+      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Sophie-Vanbelle
+      target: _blank
+
+listing:
+  - id: recent-posts
+    contents: 
+      - posts
+      - posts/post-links.yml
+    exclude:
+      title: ""
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, subtitle]
+    max-description-length: 75
+    sort: 
+      - "date desc"
+      - "title asc"
+---
+
+:::{#hero-heading}
+
+I'm a associate professor in [the department of Methodology and Statistics](https://www.maastrichtuniversity.nl/research/methodology-and-statistics) at [Maastricht University](https://www.maastrichtuniversity.nl/).
+
+I develop expertise in reliability and agreement studies since my master thesis! I think that measurement error is a very important issue that is too often neglected. Besides developing new statistical techniques for agreement and reliability studies with complex study designs, I also want to render the best practices accessible to all researchers by writing tutorials or this website, for example.
+
+## Experience
+
+- 2020-now  Associate professor (Maastricht University, The Netherlands)
+- 2010-2020 Assistant professor (Maastricht University, The Netherlands)
+- 2009-2010 Working lecturer (Mathemtatics, Liège University, Belgium)
+- 2003-2009 Research assistant (Public Health, Liège University, Belgium)
+
+## Education
+
+- 2009 PhD, Liège University (Belgium)
+- 2003 Msc in Biostatistics, Hasselt University (Belgium)
+- 2002 Msc in Mathematics, Liège University (Belgium)
+
+:::
+
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>

@@ -1,0 +1,68 @@
+---
+title: "Teaching"
+subtitle: "I am teaching at bachelor, master and PhD levels. At master level, I am teaching in the master of Human Movement Sciences part of the academic skills courses HMS4602, HMS4502, HMS4503 and HMS4603 on research designs and methods, statistics and data quality and statistical analysis."
+title-block-banner: false
+---
+
+
+## Introduction to statistical methods for data analysis
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder1.jpg)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+This bachelor course introduces core statistical concepts and methods used to summarize data, analyze relationships between variables, and draw conclusions about broader populations. Emphasis is placed on best practice approaches and data interpretation.
+
+[Link to the course](https://curriculum.maastrichtuniversity.nl/meta/484874/introduction-statistical-methods-data-analysis)
+
+:::
+
+:::
+
+
+## Survival data analysis (PhD course)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+This PhD course explores the analysis of survival times—the duration between a defined start and end event, such as time from diagnosis to recovery. Applications include clinical and epidemiological studies where interest lies in comparing treatment effects, assessing prognostic factors, and handling incomplete data due to censoring. Emphasis is placed on statistical methods designed to accurately analyze and interpret time-to-event data.
+
+[Link to the course](https://curriculum.maastrichtuniversity.nl/education/course/survival-analysis)
+
+:::
+
+:::
+
+
+## Measuring error without error, PhD course
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder3.JPG)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+This course aims to equip researchers with the statistical knowledge necessary to plan and perform reliability, agreement and validity studies of measurement instruments providing quantitative or qualitative information.
+
+
+[Link to the course](https://curriculum.maastrichtuniversity.nl/education/course/measuring-error-without-error)
+
+:::
+
+:::
+
+
