@@ -1,7 +1,7 @@
 ---
 title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
+subtitle: "Posts about news, papers, tutorials, and more"
+description-meta: "Posts about news, papers, tutorials, and more"
 listing: 
   sort: "date desc"
   type: default
