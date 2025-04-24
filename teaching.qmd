@@ -1,11 +1,11 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "I am teaching at bachelor, master and PhD levels. At master level, I am teaching in the master of Human Movement Sciences part of the academic skills courses HMS4602, HMS4502, HMS4503 and HMS4603 on research designs and methods, statistics and data quality and statistical analysis."
 title-block-banner: false
 ---
 
 
-## Class 1
+## Introduction to statistical methods for data analysis
 
 ::: {.grid}
 
@@ -16,16 +16,16 @@ title-block-banner: false
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+This bachelor course introduces core statistical concepts and methods used to summarize data, analyze relationships between variables, and draw conclusions about broader populations. Emphasis is placed on best practice approaches and data interpretation.
 
-Class 1 introduction.
-
-:::
+[Link to the course](https://curriculum.maastrichtuniversity.nl/meta/484874/introduction-statistical-methods-data-analysis)
 
 :::
 
+:::
 
-## Class 2
+
+## Survival data analysis (PhD course)
 
 ::: {.grid}
 
@@ -36,16 +36,16 @@ Class 1 introduction.
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+This PhD course explores the analysis of survival times—the duration between a defined start and end event, such as time from diagnosis to recovery. Applications include clinical and epidemiological studies where interest lies in comparing treatment effects, assessing prognostic factors, and handling incomplete data due to censoring. Emphasis is placed on statistical methods designed to accurately analyze and interpret time-to-event data.
 
-Class 2 introduction.
-
-:::
+[Link to the course](https://curriculum.maastrichtuniversity.nl/education/course/survival-analysis)
 
 :::
 
+:::
 
-## Class 3
+
+## Measuring error without error, PhD course
 
 ::: {.grid}
 
@@ -56,9 +56,10 @@ Class 2 introduction.
 
 ::: {.g-col-12 .g-col-md-10}
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+This course aims to equip researchers with the statistical knowledge necessary to plan and perform reliability, agreement and validity studies of measurement instruments providing quantitative or qualitative information.
 
-Class 3 introduction. 
+
+[Link to the course](https://curriculum.maastrichtuniversity.nl/education/course/measuring-error-without-error)
 
 :::
 
