@@ -1,6 +1,6 @@
 ---
-title: "People"
-subtitle: "Who we are"
+title: "PhD students"
+subtitle: ""
 #image: files/group.jpeg
 page-layout: full
 listing:  #an example of listing external links
@@ -16,27 +16,27 @@ listing:  #an example of listing external links
 #  sort-ui: true
 #  filter-ui: true
   contents: 
-    - /people/pi.yml  
+#   - /people/pi.yml  
     - /people/phd-student.yml
 
-- id: lab-alumni
-  sort: "lastname asc"
-  type: table
-  fields: [image, title, subtitle, started, ended]
-  grid-item-align: center  
-  grid-columns: 4
-  image-height: 25px
-  field-display-names: 
-      title: "Name"
-      subtitle: "Role"
-      started: "Started"
-      ended: "Ended"
+#- id: lab-alumni
+#  sort: "lastname asc"
+#  type: table
+#  fields: [image, title, subtitle, started, ended]
+#  grid-item-align: center  
+#  grid-columns: 4
+#  image-height: 25px
+#  field-display-names: 
+#      title: "Name"
+#      subtitle: "Role"
+#      started: "Started"
+#      ended: "Ended"
 #  categories: true
 #  sort-ui: true
 #  filter-ui: true
-  contents: 
-    - /people/phd-student.yml
-    - /people/pi.yml    
+#  contents: 
+#    - /people/phd-student.yml
+#    - /people/pi.yml    
 
 page-navigation: false
 title-block-banner: false
@@ -53,9 +53,4 @@ format:
 :::{#lab-member}
 :::
 
-
-## Alumni
-
-:::{#lab-alumni}
-:::
 
