@@ -1,45 +1,38 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\n\nNo matching items"
+    "text": "This bachelor course introduces core statistical concepts and methods used to summarize data, analyze relationships between variables, and draw conclusions about broader populations. Emphasis is placed on best practice approaches and data interpretation.\nLink to the course"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "teaching.html#introduction-to-statistical-methods-for-data-analysis",
+    "href": "teaching.html#introduction-to-statistical-methods-for-data-analysis",
+    "title": "Teaching",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "This bachelor course introduces core statistical concepts and methods used to summarize data, analyze relationships between variables, and draw conclusions about broader populations. Emphasis is placed on best practice approaches and data interpretation.\nLink to the course"
   },
   {
-    "objectID": "publications.html#selected-work",
-    "href": "publications.html#selected-work",
-    "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "objectID": "teaching.html#survival-data-analysis-phd-course",
+    "href": "teaching.html#survival-data-analysis-phd-course",
+    "title": "Teaching",
+    "section": "Survival data analysis (PhD course)",
+    "text": "Survival data analysis (PhD course)\n\n\n\n\n\nThis PhD course explores the analysis of survival times—the duration between a defined start and end event, such as time from diagnosis to recovery. Applications include clinical and epidemiological studies where interest lies in comparing treatment effects, assessing prognostic factors, and handling incomplete data due to censoring. Emphasis is placed on statistical methods designed to accurately analyze and interpret time-to-event data.\nLink to the course"
+  },
+  {
+    "objectID": "teaching.html#measuring-error-without-error-phd-course",
+    "href": "teaching.html#measuring-error-without-error-phd-course",
+    "title": "Teaching",
+    "section": "Measuring error without error, PhD course",
+    "text": "Measuring error without error, PhD course\n\n\n\n\n\nThis course aims to equip researchers with the statistical knowledge necessary to plan and perform reliability, agreement and validity studies of measurement instruments providing quantitative or qualitative information.\nLink to the course"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n        \n         \n          Title\n        \n         \n          Team\n        \n         \n          Funder\n        \n         \n          Description\n        \n         \n          Start\n        \n         \n          End\n        \n         \n          Funding\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nTitle\n\n\nTeam\n\n\nFunder\n\n\nDescription\n\n\nFunding\n\n\nStart\n\n\nEnd\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
-  },
-  {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n \n\n\nCan we trust our numbers? Quantification of measurement reliability for intensive longitudinal data\n\n\nSophie Vanbelle/Francis Tuerlinckx\n\n\nUM/KULeuven\n\n\nGlobal PhD partnerships\n\n\n€270000\n\n\n2022\n\n\n2027\n\n\n\n\n\n\n \n\n\nOptimization of research study designs in reliability and agreement studies\n\n\nSophie Vanbelle\n\n\nNWO\n\n\nASPASIA grant\n\n\n€150000\n\n\n2021\n\n\n2025\n\n\n\n\n\n\n \n\n\nModeling agreement and reliability measures in the presence of multilevel data\n\n\nSophie Vanbelle\n\n\nNWO\n\n\nVeni grant\n\n\n€250000\n\n\n2013\n\n\n2017\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
@@ -56,32 +49,32 @@
     "text": "Links\nPublished paper"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sophie Vanbelle, PhD",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "Github\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n\n  \n  \nI’m a associate professor in the department of Methodology and Statistics at Maastricht University.\nI develop expertise in reliability and agreement studies since my master thesis! I think that measurement error is a very important issue that is too often neglected. Besides developing new statistical techniques for agreement and reliability studies with complex study designs, I also want to render the best practices accessible to all researchers by writing tutorials or this website, for example.\n\n\n\n2020-now Associate professor (Maastricht University, The Netherlands)\n2010-2020 Assistant professor (Maastricht University, The Netherlands)\n2009-2010 Working lecturer (Mathemtatics, Liège University, Belgium)\n2003-2009 Research assistant (Public Health, Liège University, Belgium)\n\n\n\n\n\n2009 PhD, Liège University (Belgium)\n2003 Msc in Biostatistics, Hasselt University (Belgium)\n2002 Msc in Mathematics, Liège University (Belgium)"
   },
   {
-    "objectID": "teaching.html#class-1",
-    "href": "teaching.html#class-1",
-    "title": "Teaching",
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sophie Vanbelle, PhD",
     "section": "",
-    "text": "Fall 2024,   Fall 2023\nClass 1 introduction."
+    "text": "2020-now Associate professor (Maastricht University, The Netherlands)\n2010-2020 Assistant professor (Maastricht University, The Netherlands)\n2009-2010 Working lecturer (Mathemtatics, Liège University, Belgium)\n2003-2009 Research assistant (Public Health, Liège University, Belgium)"
   },
   {
-    "objectID": "teaching.html#class-2",
-    "href": "teaching.html#class-2",
-    "title": "Teaching",
-    "section": "Class 2",
-    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction."
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sophie Vanbelle, PhD",
+    "section": "",
+    "text": "2009 PhD, Liège University (Belgium)\n2003 Msc in Biostatistics, Hasselt University (Belgium)\n2002 Msc in Mathematics, Liège University (Belgium)"
   },
   {
-    "objectID": "teaching.html#class-3",
-    "href": "teaching.html#class-3",
-    "title": "Teaching",
-    "section": "Class 3",
-    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Sophie Vanbelle, PhD",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "contact.html",
@@ -91,52 +84,59 @@
     "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Lab\n  \n  \n    \n     Uprofile\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n      ORCID\n  \n  \n      Web of Science\n  \n  \n      Scopus\n  \n  \n      Google Scholar\n  \n\n  \n  \nI’m a Quarto Academeic Website Template adapted by Dr. Gang He.\nI’m a template that you can fork to build your own website with easy adaptation and deployment.\n\nStar this repository so you can easily come back to the template\n\nFolk this tempate and rename it to yourgithubusername.github.io\n\nUpdate and edit _quarto.yml file for website setup\n\nUpdate and add contents to /posts, teaching.qmd, projects.yml, and people.qmd and /people as needed.\nRender and preview your website and publish it to your GitHub.\nPolish and fix any issues\n\nEnjoy your website!\n\n\n\n\nResearcher, Univerisity\n\n\n\n\n\nPhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "Researcher, Univerisity"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Quarto Academic, PhD",
-    "section": "",
-    "text": "PhD, Univerisity"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Quarto Academic, PhD",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nAll Posts »"
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\nNo matching items"
+    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#team",
     "href": "people.html#team",
     "title": "People",
     "section": "",
-    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\n\n\nNo matching items"
+    "text": "PI\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Student\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#alumni",
     "href": "people.html#alumni",
     "title": "People",
     "section": "Alumni",
-    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n        \n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n \n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\n\n\nStudent Name\n\n\nPhD Student\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\nPI Name\n\n\nPI\n\n\n \n\n\n \n\n\n\n\n\nNo matching items"
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nStudent Name\n\n\nPhD Student\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nPI Name\n\n\nPI\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/news-title/index.html",
+    "href": "posts/news-title/index.html",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts/news-title/index.html#summary",
+    "href": "posts/news-title/index.html#summary",
+    "title": "News item",
+    "section": "",
+    "text": "About the news"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of April 2025:"
+  },
+  {
+    "objectID": "publications.html#selected-work",
+    "href": "publications.html#selected-work",
+    "title": "Publications",
+    "section": "Selected Work",
+    "text": "Selected Work\n\nGood practices\nVanbelle S., Engelhart C. & Blix E. (2024) A comprehensive guide to study the agreement and reliability of multi-observer ordinal data. BMC Medical Research and Methodology 24, 310 open access, shiny app and R package   \n\n\n\n \nHoutvast D.C.J., Betz M.W., Van Hooren B., Vanbelle S., Verdijk L.B., van Loon L.J.C. (2024), Underpowered Studies in Muscle Metabolism Research: Determinants and Considerations, Clinical Nutrition ESPEN, 64, 334-343 open access   \n\n\n\n \nVanbelle S. (2024) Statistical inference for agreement between multiple raters on a binary scale, British Journal of Mathematical and Statistical Psychology, 77 (2), 245-260 open access, shiny app and R package  \n\n\n\n \nMondal D., Vanbelle S., Cassese A., Candel M. (2023) Review of sample size determination methods for the intraclass correlation coefficient in the one-way ANOVA model, Statistical Methods in Medical Research, 33(3), 532-553 open access, shiny app and R package  \n\n\n\n \n\n\nNew methods\nLin T-Y, Tuerlincks F., Vanbelle S. Reliability for multilevel data: A correlation approach, Psychological Methods, in press\nVanbelle S. (2019) On the asymptotic variability of (multilevel) multirater kappa coefficients, Statistical Methods in Medical Research. 28 (10-11), 3012-3026 open access  \n\n\n\n \nVanbelle S. and Lesaffre E. (2018) Modeling agreement on bounded scales. Statistical Methods in Medical Research, 27 (11), 3460-3477 open access   \n\n\n\n \nVanbelle, S. (2017), Comparing dependent kappa coefficients obtained on multilevel data. Biom. J., 59: 1016-1034. https://doi.org/10.1002/bimj.201600093  \n\n\n\n \nVanbelle S. A New Interpretation of the Weighted Kappa Coefficients. Psychometrika. 2016;81(2):399-410. doi:10.1007/s11336-014-9439-4"
   }
 ]
