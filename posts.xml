@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Sophie Vanbelle</title>
+<link>https://svanbelle.github.io/academic_website/posts.html</link>
+<atom:link href="https://svanbelle.github.io/academic_website/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Academic website of Dr. Sophie Vanbelle</description>
+<image>
+<url>https://svanbelle.github.io/academic_website/files/profiles/vanbelle_square.JPG</url>
+<title>Sophie Vanbelle</title>
+<link>https://svanbelle.github.io/academic_website/posts.html</link>
+</image>
+<generator>quarto-1.7.28</generator>
+<lastBuildDate>Wed, 23 Apr 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>A comprehensive guide to study the agreement and reliability of multi-observer ordinal data</title>
+  <dc:creator>Sophie Vanbelle</dc:creator>
+  <dc:creator>Christina Hernandez Englhart</dc:creator>
+  <dc:creator>Ellen Blix</dc:creator>
+  <link>https://svanbelle.github.io/academic_website/posts/paper-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>A recent systematic review revealed issues in regard to performing and reporting agreement and reliability studies for ordinal scales, especially in the presence of more than two observers. This paper therefore aims to provide all necessary information in regard to the choice among the most meaningful and most used measures and the planning of agreement and reliability studies for ordinal outcomes. It considers the generalisation of the proportion of (dis)agreement, the mean absolute deviation, the mean squared deviation and weighted kappa coefficients to more than two observers in the presence of an ordinal outcome. It provides an interpretation of these measures, a way to construct confidence intervals and a method to make sample size calculations.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02431-y">paper</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s12874-024-02431-y"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s12874-024-02431-y" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{vanbelle2024,
+  author = {Vanbelle, Sophie and Hernandez Englhart, Christina and Blix,
+    Ellen},
+  title = {A Comprehensive Guide to Study the Agreement and Reliability
+    of Multi-Observer Ordinal Data},
+  journal = {Statistics},
+  volume = {24},
+  number = {no},
+  pages = {310},
+  date = {2024},
+  url = {https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02431-y},
+  doi = {10.1186/s12874-024-02431-y},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-vanbelle2024" class="csl-entry quarto-appendix-citeas">
+Vanbelle, Sophie, Christina Hernandez Englhart, and Ellen Blix. 2024.
+<span>“A Comprehensive Guide to Study the Agreement and Reliability of
+Multi-Observer Ordinal Data.”</span> <em>Statistics</em> 24 (no): 310.
+<a href="https://doi.org/10.1186/s12874-024-02431-y">https://doi.org/10.1186/s12874-024-02431-y</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://svanbelle.github.io/academic_website/posts/paper-title/</guid>
+  <pubDate>Wed, 23 Apr 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://svanbelle.github.io/academic_website/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>First post</title>
+  <link>https://svanbelle.github.io/academic_website/</link>
+  <description>First post</description>
+  <category>news</category>
+  <guid>https://svanbelle.github.io/academic_website/</guid>
+  <pubDate>Wed, 23 Apr 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://svanbelle.github.io/academic_website/files/images/placeholder4.JPG" medium="image"/>
+</item>
+<item>
+  <title>Test</title>
+  <dc:creator>Sophie Vanbelle</dc:creator>
+  <link>https://svanbelle.github.io/academic_website/posts/event-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://svanbelle.github.io/academic_website/"><img src="https://svanbelle.github.io/academic_website/files/images/placeholder4.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <category>presentation</category>
+  <guid>https://svanbelle.github.io/academic_website/posts/event-title/</guid>
+  <pubDate>Mon, 02 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://svanbelle.github.io/academic_website/files/images/placeholder4.JPG" medium="image"/>
+</item>
+<item>
+  <title>News item</title>
+  <dc:creator>News </dc:creator>
+  <link>https://svanbelle.github.io/academic_website/posts/news-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>About the news</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://svanbelle.github.io/academic_website/posts/news-title/</guid>
+  <pubDate>Sun, 23 Jun 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://svanbelle.github.io/academic_website/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
