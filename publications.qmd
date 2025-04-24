@@ -13,20 +13,51 @@ css: custom.css
 
 Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
 
-Total citations as of January 2025:
+Total citations as of April 2025:
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+- [Web of Science](https://www.webofscience.com/wos/author/record/30582405,16360334,34344671): 1,136 (h-index = 20)   
+- [Google Scholar](https://scholar.google.nl/citations?user=JJ2fzIEAAAAJ&hl=nl): 2,059 (h-index = 26, i10-index = 38) 
 
 ## Selected Work
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+### Good practices
+
+Vanbelle S., Engelhart C. & Blix E. (2024) A comprehensive guide to study the agreement and reliability of multi-observer ordinal data. BMC Medical Research and Methodology 24, 310 [open access](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02431-y), [shiny app](https://svanbelle.shinyapps.io/weightagree/) and [R package](https://github.com/svanbelle) &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s12874-024-02431-y" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1186/s12874-024-02431-y" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;
 
 
-<center><hr style="width:50%"></center>
+Houtvast D.C.J., Betz M.W., Van Hooren B., Vanbelle S., Verdijk L.B., van Loon L.J.C. (2024), Underpowered Studies in Muscle Metabolism Research: Determinants and Considerations, Clinical Nutrition ESPEN, 64, 334-343 [open access](https://www.sciencedirect.com/science/article/pii/S2405457724014906) &nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.clnesp.2024.10.152" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.clnesp.2024.10.152" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
+Vanbelle S. (2024) Statistical inference for agreement between multiple raters on a binary scale, British Journal of Mathematical and Statistical Psychology, 77 (2), 245-260 [open access](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bmsp.12333), [shiny app](https://svanbelle.shinyapps.io/simpleagree/) and [R package](https://github.com/svanbelle)&nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1111/bmsp.12333" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1111/bmsp.12333" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;
+
+
+Mondal D., Vanbelle S., Cassese A., Candel M. (2023) Review of sample size determination methods for the intraclass correlation coefficient in the one-way ANOVA model, Statistical Methods in Medical Research, 33(3), 532-553 [open access](https://journals.sagepub.com/doi/10.1177/09622802231224657), [shiny app](https://dipro.shinyapps.io/sample-size-icc/) and [R package](https://github.com/DiproMondal/sample-size-ICC)&nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1177/09622802231224657" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1177/09622802231224657" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;
+
+
+
+### New methods
+
+Lin T-Y, Tuerlincks F., Vanbelle S. Reliability for multilevel data: A correlation approach, Psychological Methods, in press
+
+Vanbelle S. (2019) On the asymptotic variability of (multilevel) multirater kappa coefficients, Statistical Methods in Medical Research. 28 (10-11), 3012-3026 [open access](https://journals.sagepub.com/doi/10.1177/0962280218794733)&nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1177/0962280218794733" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1177/0962280218794733" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;
+
+
+Vanbelle S. and Lesaffre E. (2018) Modeling agreement on bounded scales. Statistical Methods in Medical Research, 27 (11), 3460-3477 [open access](https://journals.sagepub.com/doi/10.1177/0962280217705709)
+&nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1177/0962280217705709" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1177/0962280217705709" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;
+
+
+Vanbelle, S. (2017), Comparing dependent kappa coefficients obtained on multilevel data. Biom. J., 59: 1016-1034. https://doi.org/10.1002/bimj.201600093&nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1002/bimj.201600093" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1002/bimj.201600093" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;
+
+
+Vanbelle S. A New Interpretation of the Weighted Kappa Coefficients. Psychometrika. 2016;81(2):399-410. doi:10.1007/s11336-014-9439-4&nbsp;
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11336-014-9439-4" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1007/s11336-014-9439-4" data-hide-no-mentions="true" class="altmetric-embed"></div>&nbsp;
 
 
 <!--Include social share buttons-->
