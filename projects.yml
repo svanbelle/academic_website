@@ -1,6 +1,5 @@
 
-     - path: https://www.nwo.nl/en 
-#     image: https://new.nsf.gov/themes/custom/nsf_theme/components/sdc-components/molecules/logo/logo-desktop.svg
+    - path: https://www.nwo.nl/en 
       title: "Modeling agreement and reliability measures in the presence of multilevel data"
       author: Sophie Vanbelle
       subtitle: "NWO"
@@ -12,7 +11,6 @@
 #      categories: [] 
 
     - path: https://www.nwo.nl/en 
-#     image: https://new.nsf.gov/themes/custom/nsf_theme/components/sdc-components/molecules/logo/logo-desktop.svg
       title: "Optimization of research study designs in reliability and agreement studies"
       author: Sophie Vanbelle
       subtitle: "NWO"
@@ -24,7 +22,6 @@
 #      categories: [] 
 
     - path: https://www.kuleuven.be/kuleuven 
-#     image: https://new.nsf.gov/themes/custom/nsf_theme/components/sdc-components/molecules/logo/logo-desktop.svg
       title: "Can we trust our numbers? Quantification of measurement reliability for intensive longitudinal data"
       author: Sophie Vanbelle/Francis Tuerlinckx
       subtitle: "UM/KULeuven"
