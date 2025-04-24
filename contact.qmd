@@ -4,21 +4,20 @@ description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
 ---
 
-<center>
+<left>
 
-**Quarto Academic**
+**Sophie Vanbelle**
 
-School
+Department of Methodology and Statistics
 
-College
+CAPHRI, faculty of Health, Medical and Life Sciences
 
-University
+Maastricht University
 
-Address: 
+Address: P. Debyeplein, 1
+         6229HA Maastricht (The Netherlands)
 
-Phone: 
-
-E-mail: 
+E-mail: sophie.vanbelle@maastrichtuniversity.nl
 
 
-</center>
+</left>
