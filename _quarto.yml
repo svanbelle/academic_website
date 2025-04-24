@@ -39,7 +39,7 @@ website:
         menu:        
         - text: Presentations
           href: posts.qmd#category=presentation                   
-      - text: Group
+      - text: PhD students
         href: people.qmd
 
     right: 
