@@ -16,7 +16,7 @@ citation:
   available-date: "2024-12-20"
   issued: "2024"
   volume: 24
-  issue: 
+  issue: no
   page: 310
   url: https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-024-02431-y
 google-scholar: true
