@@ -1,10 +1,21 @@
-    - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile2.JPG"
-      title: "Student Name"
-      lastname: "Website"
+    - path: https://svanbelle.github.io/academic_website
+      image: "/files/profiles/MONDAL.JPG"
+      title: "Dipro"
+      lastname: "Mondal"
 #      author: 
       subtitle: "PhD Student"
 #      date: "2024-03-12"
       categories: [PhD Student] 
-      started: "2024"
+      started: "2021"
       ended: "2025"
+
+    - path: https://svanbelle.github.io/academic_website
+      image: "/files/profiles/LIN.JPG"
+      title: "Tzu-Yao"
+      lastname: "Lin"
+#      author: 
+      subtitle: "PhD Student"
+#      date: "2024-03-12"
+      categories: [PhD Student] 
+      started: "2022"
+      ended: "2027"
