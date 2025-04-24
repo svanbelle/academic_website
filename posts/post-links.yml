@@ -1,9 +1,9 @@
 
-    - path: https://drganghe.github.io/quarto-academic-site-examples.html
+    - path: https://svanbelle.github.io/academic_website.html
       image: "/files/images/placeholder4.JPG"
-      title: "Quarto Academic Website Examples and Tips"
-      author: "Dr. Gang He"
-      description: "Examples and tips for Quarto Academic Website"
-      date: "2024-10-15"
+      title: "First post"
+      author: "Dr. Sophie Vanbelle"
+      description: "First post"
+      date: "2025-04-24"
       categories: [news] 
 
