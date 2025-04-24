@@ -16,7 +16,7 @@ about:
       text: Github
       href: https://github.com/svanbelle
       target: _blank
-  - icon: envelope
+    - icon: envelope
       text: E-mail
       href: mailto:sophie.vanbelle@maastrichtuniversity.nl    
     - icon: linkedin
