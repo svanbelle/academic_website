@@ -37,14 +37,14 @@
   {
     "objectID": "posts/paper-title/index.html#abstract",
     "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "title": "A comprehensive guide to study the agreement and reliability of multi-observer ordinal data",
     "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+    "text": "Abstract\nA recent systematic review revealed issues in regard to performing and reporting agreement and reliability studies for ordinal scales, especially in the presence of more than two observers. This paper therefore aims to provide all necessary information in regard to the choice among the most meaningful and most used measures and the planning of agreement and reliability studies for ordinal outcomes. It considers the generalisation of the proportion of (dis)agreement, the mean absolute deviation, the mean squared deviation and weighted kappa coefficients to more than two observers in the presence of an ordinal outcome. It provides an interpretation of these measures, a way to construct confidence intervals and a method to make sample size calculations."
   },
   {
     "objectID": "posts/paper-title/index.html#links",
     "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "title": "A comprehensive guide to study the agreement and reliability of multi-observer ordinal data",
     "section": "Links",
     "text": "Links\nPublished paper"
   },
@@ -74,7 +74,7 @@
     "href": "index.html#recent-posts",
     "title": "Sophie Vanbelle, PhD",
     "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nA comprehensive guide to study the agreement and reliability of multi-observer ordinal data\n\n\nBest practices\n\n\n\nApr 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst post\n\n\n\nApr 24, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nTest\n\n\n\nSep 3, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "contact.html",
@@ -116,7 +116,7 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nA comprehensive guide to study the agreement and reliability of multi-observer ordinal data\n\n\nBest practices\n\n\n\npaper\n\n\n\nWhat are the relevant statistical measures and how to interpret them?\n\n\n\n\n\nApr 24, 2025\n\n\nSophie Vanbelle, Christina Hernandez Englhart, Ellen Blix\n\n\n\n\n\n\n\n\n\n\n\n\nFirst post\n\n\n\n\n\n\nnews\n\n\n\nFirst post\n\n\n\n\n\nApr 24, 2025\n\n\nDr. Sophie Vanbelle\n\n\n\n\n\n\n\n\n\n\n\n\nTest\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nTest.\n\n\n\n\n\nSep 3, 2024\n\n\nSophie Vanbelle\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
