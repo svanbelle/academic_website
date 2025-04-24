@@ -1,13 +1,37 @@
 
-    - path: https://www.nsf.gov/ 
-      image: https://new.nsf.gov/themes/custom/nsf_theme/components/sdc-components/molecules/logo/logo-desktop.svg
-      title: "Exploring "
-      author: Academic Website
-      subtitle: "Funder"
-      description: "The goal of this project is to investigate ."
-      started: "2024"
+     - path: https://www.nwo.nl/en 
+#     image: https://new.nsf.gov/themes/custom/nsf_theme/components/sdc-components/molecules/logo/logo-desktop.svg
+      title: "Modeling agreement and reliability measures in the presence of multilevel data"
+      author: Sophie Vanbelle
+      subtitle: "NWO"
+      description: "Veni grant"
+      started: "2013"
+      ended: "2017"
+      funding: "€250000"
+#      date: "2022-10-26"
+#      categories: [] 
+
+    - path: https://www.nwo.nl/en 
+#     image: https://new.nsf.gov/themes/custom/nsf_theme/components/sdc-components/molecules/logo/logo-desktop.svg
+      title: "Optimization of research study designs in reliability and agreement studies"
+      author: Sophie Vanbelle
+      subtitle: "NWO"
+      description: "ASPASIA grant"
+      started: "2021"
       ended: "2025"
-      funding: "$0"
+      funding: "€150000"
+#      date: "2022-10-26"
+#      categories: [] 
+
+    - path: https://www.kuleuven.be/kuleuven 
+#     image: https://new.nsf.gov/themes/custom/nsf_theme/components/sdc-components/molecules/logo/logo-desktop.svg
+      title: "Can we trust our numbers? Quantification of measurement reliability for intensive longitudinal data"
+      author: Sophie Vanbelle/Francis Tuerlinckx
+      subtitle: "UM/KULeuven"
+      description: "Global PhD partnerships"
+      started: "2022"
+      ended: "2027"
+      funding: "€270000"
 #      date: "2022-10-26"
 #      categories: [] 
 
